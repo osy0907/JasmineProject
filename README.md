@@ -12,4 +12,6 @@
 =================
 사용 기술 및 개발 플랫폼
 =================
-=================
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/60791848/92711490-8bd5ad00-f393-11ea-82c5-9f70c5c2b386.PNG">
+</div>
