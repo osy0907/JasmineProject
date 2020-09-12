@@ -6,7 +6,7 @@
 
 프로젝트 도메인 :: http://jasmine62.shop
 
-쇼핑몰 웹 애플리케이션 프로젝트 PPT :: Jasmine.pptx
+쇼핑몰 웹 애플리케이션 프로젝트 PPT 첨부해 놓았습니다. :: Jasmine.pptx
 
 
 
